@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **ui/ux designing,wepdesigning and devolopment**
 
-- 💬 Ask me about **ui/ux,andriod**
+- 💬 Ask me about **ui/ux,forent end development**
 
-- 📫 How to reach me **ahmetdesign01@gmail.com**
+- 📫 How to reach me **ahmethassankayd@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
